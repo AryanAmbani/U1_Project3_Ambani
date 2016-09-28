@@ -1,3 +1,8 @@
+/*
+ THIS IS WHAT I'M MAKING
+ 
+*/
+
 float CircleX [];
 float CircleY[];
 float xDirection [];
